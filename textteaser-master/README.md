@@ -1,6 +1,7 @@
-##Lingua
+Lingua
+=============
 
-Lingua is an app which generates a headline for any input text and has been designed used the Tkinter Module in Python
+Lingua is an app which generates a headline for any input text and has been designed used the Tkinter Module in Python.
 
 
 TextTeaser
