@@ -9,9 +9,7 @@ TextTeaser
 
 TextTeaser is an automatic summarization algorithm.
 
-This is now the official version of TextTeaser. Future developments of TextTeaser will be in this repository.
-
-The original Scala TextTeaser can still be accessed [here](https://github.com/MojoJolo/textteaser).
+This is now the official version of TextTeaser. Credits to [https://github.com/IndigoResearch/textteaser](https://github.com/IndigoResearch/textteaser) for designing the algorithm.
 
 ### Installation
 
